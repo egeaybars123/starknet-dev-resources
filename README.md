@@ -19,6 +19,8 @@ If you familiarized yourself with how Starknet works in general, then you are re
 
 - [Write Your First Smart Contract in Cairo](https://book.cairo-lang.org/ch13-02-anatomy-of-a-simple-contract.html): Learn how Cairo is utilized to create a smart contract on Starknet.
 
+- [Write & Deploy Counter contract in Cairo](https://www.youtube.com/watch?v=l8fSGTCYIro): Comprehensive workshop by Starknet Foundation from StarkHack hackathon by ETHGlobal.
+
 - [Hone Your Cairo Skills with Name Registry contract](https://book.cairo-lang.org/ch14-00-building-starknet-smart-contracts.html): Explanations for contract storage, functions and events will help you improve your Cairo skills.
 
 - [Create Your Own ERC-20 Token](https://starknet-by-example.voyager.online/applications/erc20.html): Step into DeFi development on Starknet!
